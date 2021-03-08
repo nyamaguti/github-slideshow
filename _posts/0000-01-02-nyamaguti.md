@@ -17,4 +17,17 @@ _You **can** combine them_
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+I think you should use an
+`<addr>` element here instead.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
 Use the left arrow to go back!
