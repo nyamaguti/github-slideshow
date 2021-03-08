@@ -29,5 +29,8 @@ I think you should use an
 * Item 2
   * Item 2a
   * Item 2b
-  
+
+**This text will be bold**
+__This will also be bold__
+
 Use the left arrow to go back!
